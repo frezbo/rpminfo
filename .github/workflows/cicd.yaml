@@ -5,7 +5,7 @@ on:
       - main
 
 jobs:
-  publish_resume:
+  golang_ci:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code

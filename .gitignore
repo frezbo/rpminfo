@@ -1,0 +1,5 @@
+*.xml.gz
+data.json
+main
+rpminfo
+.vscode

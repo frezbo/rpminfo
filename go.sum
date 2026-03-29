@@ -1,5 +1,5 @@
-github.com/antchfx/xpath v1.1.5 h1:pQWeT0Xuv0gR7bDXXuoLAA7ztm9dxb19tTdxdxJR1Bo=
-github.com/antchfx/xpath v1.1.5/go.mod h1:Yee4kTMuNiPYJ7nSNorELQMr1J33uOpXDMByNYhvtNk=
+github.com/antchfx/xpath v1.3.6 h1:s0y+ElRRtTQdfHP609qFu0+c6bglDv20pqOViQjjdPI=
+github.com/antchfx/xpath v1.3.6/go.mod h1:i54GszH55fYfBmoZXapTHN8T8tkcHfRgLyVwwqzXNcs=
 github.com/cavaliercoder/grab v2.0.1-0.20200331080741-9f014744ee41+incompatible h1:WIyGcm5fMRXlTG8k2iwBiAVunhUmCvakMZIYz6yGjKM=
 github.com/cavaliercoder/grab v2.0.1-0.20200331080741-9f014744ee41+incompatible/go.mod h1:tTBkfNqSBfuMmMBFaO2phgyhdYhiZQ/+iXCZDzcDsMI=
 github.com/tamerh/xml-stream-parser v1.4.0 h1:Vb1ZqshlXi53vvUBzZUdEsEJBvnKVWhfrGEJhfQABfc=
